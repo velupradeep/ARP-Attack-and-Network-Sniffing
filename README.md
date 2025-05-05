@@ -75,4 +75,4 @@ Ettercap supports active and passive dissection of many protocols (even encrypte
 
 
 ## RESULT:
-The kali linux tools for ARP Attack and Network Sniffing were identified successfully
+The kali linux tools for ARP Attack and Network Sniffing were identified successfully.
